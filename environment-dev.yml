@@ -1,0 +1,10 @@
+name: my-first-binder
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pytest
+  - flake8
+  - isort
+  - black
+  - pre-commit
